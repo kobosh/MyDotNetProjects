@@ -1,0 +1,37 @@
+﻿
+
+.message {
+    background: none repeat scroll 0 0 #e7f5a4;
+    border: 1px solid #888888;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 20px;
+    padding: 5px;
+}
+ .title
+  {
+    font-size: 20px;
+    font-weight: bold;
+    -webkit-text-shadow: 2px 2px 4px #aaa;
+    text-shadow: 2px 2px 4px #888888;
+  }
+ .row{
+     margin-left:-20px;
+ }
+.reply {
+    border-top: 1px solid #ffffff;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+  .date
+    {
+      
+      font-size: 9px;      
+      
+      margin-left: 10px;
+      -webkit-text-shadow: 2px 2px 3px #aaa;
+      text-shadow: 2px 2px 3px #888888;
+    }
+  
+
